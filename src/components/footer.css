@@ -1,0 +1,10 @@
+/* Footer Styles */
+
+/* Ensure the image is responsive and scales with the width of the column */
+.img-fluid {
+    width: 100%; /* Full width */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 200px; /* Adjust maximum height as needed */
+}
+
+/* Additional styling and responsive adjustments as needed */
